@@ -1,5 +1,5 @@
 # BasicCalculatorApp
-### An andoid application which performs the functions of a basic calculator (addition, subtraction, multiplication, division). You can run this projects's apk file on any android mobile phone and work on this project using android studios.
+### An android application that performs the functions of a basic calculator (addition, subtraction, multiplication, division). You can run this projects's apk file on any android mobile phone and work on this project using android studios.
 ## Screenshots
 #### ***Main Screen***
 <img src="https://user-images.githubusercontent.com/66882470/108328593-cff69480-71f2-11eb-93fe-fc8ee702ef69.jpeg" width="350" height="700">
